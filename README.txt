@@ -2,7 +2,7 @@
 INTERVIEW MANAGEMENT APPLICATION
 
 Project Overview
-The Interview Management Application is a simple web-based application used to schedule, view, edit, and manage job interviews.
+The Interview Management Application is a web-based application used to schedule, view, edit, and manage job interviews.
 It is built using HTML, CSS, and JavaScript and stores data using the browser’s Local Storage.
 
 Features
