@@ -1,0 +1,31 @@
+:root {
+  /* Neutral institutional palette */
+  --color-bg: #f8f9fb;
+  --color-surface: #ffffff;
+  --color-border: #e4e7ec;
+
+  --color-text-primary: #101828;
+  --color-text-secondary: #667085;
+
+  /* Accent (used sparingly) */
+  --color-accent: #3056d3;
+
+  /* Status colors (muted) */
+  --status-draft: #98a2b3;
+  --status-submitted: #f79009;
+  --status-published: #12b76a;
+
+  /* Spacing scale */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 16px;
+  --space-4: 24px;
+  --space-5: 32px;
+
+  /* Motion */
+  --transition-fast: 150ms ease;
+  --transition-medium: 220ms ease;
+
+  /* Typography */
+  --font-base: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
